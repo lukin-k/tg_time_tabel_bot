@@ -1,1 +1,1 @@
-worker: python time_tabel_bot.py
+web: python time_tabel_bot.py
